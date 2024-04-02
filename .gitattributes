@@ -1,1 +1,2 @@
 'seriousmd.sql' filter=lfs diff=lfs merge=lfs -text
+seriousmd.sql filter=lfs diff=lfs merge=lfs -text
